@@ -37,7 +37,7 @@ Click [here](https://github.com/bat-man-user/Golden Black-Ver.zip) to download t
 
 - Built with vanilla JavaScript + Supabase (for message storage)
 - Designed to work under strict Content Security Policies (CSP)
-- Easily customizable room icons, themes, and expiration logic
+- Easily customizable room icons, themes, and expiration logic.
 
 ---
 
