@@ -1,6 +1,6 @@
-# 🗨️ FreeFlow Chat Extension
+# 🗨️ Golden Black-Ver Chat Extension
 
-**FreeFlow Chat** is a lightweight browser extension that lets users express their thoughts freely in themed chat rooms—right from the extension popup.
+**Golden Black-Ver** is a lightweight browser extension that lets users express their thoughts freely in themed chat rooms—right from the extension popup.
 
 ## 🌟 Features
 - 💬 Predefined chat rooms for structured yet open discussions
